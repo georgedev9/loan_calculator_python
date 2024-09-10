@@ -4,7 +4,7 @@ Practice using mathematics and Python in everyday tasks and learn how to use thi
 
 Personal finances are an important part of life. Sometimes you need some extra money and decide to take a loan, or you want to buy a house using a mortgage. To make an informed decision, you need to be able to calculate different financial parameters. Let’s make a program that can help us with that!
 
-This project to the following tasks:
+This project do the following tasks:
 
 * Create a simple program that will print messages about loan calculations.
 * Communicate with the user to get input values, do some simple mathematical operations, and output the result.
